@@ -1,0 +1,10 @@
+{
+  "name": "CS Career Guide",
+  "description": "A comprehensive Computer Science career guidance, placement preparation, and AI-backed interview feedback platform.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
