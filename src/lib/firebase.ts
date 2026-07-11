@@ -3,7 +3,7 @@ import { getAuth, GoogleAuthProvider, signInWithPopup, signOut } from 'firebase/
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBCBmSseAbhUPjFUbX3NETMzYfa8KMP3no",
+  
   authDomain: "directed-osprey-wk91c.firebaseapp.com",
   projectId: "directed-osprey-wk91c",
   storageBucket: "directed-osprey-wk91c.firebasestorage.app",
