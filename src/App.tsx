@@ -9,7 +9,7 @@ import AdminDashboard from './pages/AdminDashboard';
 import StudentDashboard from './pages/StudentDashboard';
 import EditProfile from './pages/EditProfile';
 
-// New Student Pages
+
 import StudentCompanies from './pages/StudentCompanies';
 import StudentPractice from './pages/StudentPractice';
 import StudentLearning from './pages/StudentLearning';
